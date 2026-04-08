@@ -20,7 +20,7 @@ Actualmente estoy en mi primer año de la carrera de Ciencias de la Computacion,
 
 | Projecto | Herramientas | Descripción |
 |---|---|---|
-| [Análisis de ventas de tecnología de E-comerce](#) | SQL, PostgreSQL, Google Sheets |Creé una base de datos relacional desde cero y analicé datos de ventas para responder preguntas comerciales reales.  |
+| [Análisis de ventas de un E-comerce](#) | SQL, PostgreSQL, Google Sheets |Creé una base de datos relacional desde cero y analicé datos de ventas para responder preguntas comerciales reales.  |
 
 ---
 
