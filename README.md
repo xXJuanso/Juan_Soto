@@ -23,7 +23,7 @@ business insights.
 ## 📂 Projects
 
 | Project | Tools | Description |
-
+|---|---|---|
 | [E-commerce Tech Sales Analysis](#) | SQL, PostgreSQL, Google Sheets | Built a relational database from scratch and analyzed sales data to answer real business questions |
 
 ---
