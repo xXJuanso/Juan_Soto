@@ -1,16 +1,12 @@
-# Hi, I'm Juan Soto 👋
+#Hola, soy Juan Soto 👋
 
-Aspiring Data Analyst from Argentina 🇦🇷
+Futuro analista de datos de Argentina 🇦🇷
 
-I'm currently in my first year of a Data Science degree, 
-while also learning independently through online courses 
-and hands-on projects. My goal is to transition into a 
-data analyst role where I can turn raw data into useful 
-business insights.
+Actualmente estoy en mi primer año de la carrera de Ciencia de Datos, y además aprendo de forma autodidacta mediante cursos en línea y proyectos prácticos. Mi objetivo es incorporarme a un puesto de analista de datos donde pueda transformar datos brutos en información útil para el negocio.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Herramientas y tecnologías
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -20,16 +16,16 @@ business insights.
 
 ---
 
-## 📂 Projects
+## 📂 Projectos
 
-| Project | Tools | Description |
+| Projecto | Herramientas | Descripción |
 |---|---|---|
-| [E-commerce Tech Sales Analysis](#) | SQL, PostgreSQL, Google Sheets | Built a relational database from scratch and analyzed sales data to answer real business questions |
+| [Análisis de ventas de tecnología de E-comerce](#) | SQL, PostgreSQL, Google Sheets |Creé una base de datos relacional desde cero y analicé datos de ventas para responder preguntas comerciales reales.  |
 
 ---
 
-## 📚 Currently Learning
+## 📚 Actualmente aprendiendo
 
-- Data Analysis with Python (Pandas, Matplotlib)
-- Statistics for Data Science
-- Dashboard design with Power BI
+- Análisis de datos con Python (Pandas, Matplotlib)
+- Estadística para ciencia de datos
+- Diseño de paneles de control con Power BI
