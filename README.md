@@ -1,4 +1,4 @@
-#Hola, soy Juan Soto 👋
+## Hola, soy Juan Soto 👋
 
 Futuro analista de datos de Argentina 🇦🇷
 
