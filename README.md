@@ -33,10 +33,6 @@ business insights.
 - Data Analysis with Python (Pandas, Matplotlib)
 - Statistics for Data Science
 - Dashboard design with Power BI
-
----
-
-
-## 📫 Contact
+- 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
