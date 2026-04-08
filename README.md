@@ -16,7 +16,7 @@ Actualmente estoy en mi primer año de la carrera de Ciencias de la Computacion,
 
 ---
 
-## 📂 Projectos
+## 📂 Proyectos
 
 | Projecto | Herramientas | Descripción |
 |---|---|---|
