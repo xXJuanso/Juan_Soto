@@ -2,7 +2,7 @@
 
 Futuro analista de datos de Argentina 🇦🇷
 
-Actualmente estoy en mi primer año de la carrera de Ciencia de Datos, y además aprendo de forma autodidacta mediante cursos en línea y proyectos prácticos. Mi objetivo es incorporarme a un puesto de analista de datos donde pueda transformar datos brutos en información útil para el negocio.
+Actualmente estoy en mi primer año de la carrera de Ciencias de la Computacion, y además aprendo de forma autodidacta mediante cursos en línea y proyectos prácticos. Mi objetivo es incorporarme a un puesto de analista de datos donde pueda transformar datos brutos en información útil para el negocio.
 
 ---
 
